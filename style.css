@@ -1,8 +1,31 @@
-.main-div{
+body{
     background-color: cadetblue;
+}
+.main-div{
     color: dimgray;
 }
-.header-div{
+.header_div{
+    font-family: 'Fuzzy Bubbles';
     background-color: darkslateblue;
     color: ghostwhite;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: ghostwhite;
+    color: gray;
+    width: 100%;
+    text-align: center;
+    font-size: 24.86352778356783546783627887px;
+    line-height: 3;
+}
+
+img{
+    width: 300;
+    height: 359.99;
+}
+
+button{
+    font-family: 'Corinthia';
+    font-size: 25.9878678689999px;
 }
